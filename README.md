@@ -1,3 +1,5 @@
+解决部分依赖库冲突，等官方更新到新版
+
 Thrift Dart Library
 
 License
